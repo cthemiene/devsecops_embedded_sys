@@ -1,0 +1,6 @@
+node_id: "ALPHA-7"
+frequency_mhz: 245.5
+encryption_enabled: true
+max_message_length: 256
+callsign: "VIPER"
+network_id: "TACNET-9"
